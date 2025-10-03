@@ -9,3 +9,7 @@
 > git commit -m "First Commit"
 > 
 > git push -u origin main
+
+** Run PM2 **
+
+> pm2 start 
