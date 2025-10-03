@@ -1,0 +1,1 @@
+import{_ as r,c as o,o as t,i as s}from"#entry";const c={},n={class:"min-h-screen flex flex-col items-center justify-center border border-gray-200 dark:border-gray-600 rounded-lg"};function a(e,l){return t(),o("div",n,[s(e.$slots,"default")])}const f=r(c,[["render",a]]);export{f as default};

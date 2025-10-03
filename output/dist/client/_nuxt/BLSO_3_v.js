@@ -1,0 +1,1 @@
+import{_ as a}from"./Dgd_TsUd.js";import{_ as e,f as n,w as r,o as s,a as _}from"#entry";const c={};function f(l,o){const t=a;return s(),n(t,null,{default:r(()=>[...o[0]||(o[0]=[_("h1",null,"Board",-1)])]),_:1})}const m=e(c,[["render",f]]);export{m as default};

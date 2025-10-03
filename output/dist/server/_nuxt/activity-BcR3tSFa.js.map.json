@@ -1,0 +1,1 @@
+{"file":"activity-BcR3tSFa.js","mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAiB,YAAb,UAAQ;AAAA;;;;;;;;;;;;;","names":["_push","_parent","_createVNode"],"sources":["../../../../../frontend/app/pages/job/activity.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>Activity</h1>\n  </UContainer>\n</template>"],"version":3}

@@ -1,0 +1,220 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "nitropack/types": [
+        "../../frontend/node_modules/nitropack/types"
+      ],
+      "nitropack/runtime": [
+        "../../frontend/node_modules/nitropack/runtime"
+      ],
+      "nitropack": [
+        "../../frontend/node_modules/nitropack"
+      ],
+      "defu": [
+        "../../frontend/node_modules/defu"
+      ],
+      "h3": [
+        "../../frontend/node_modules/h3"
+      ],
+      "consola": [
+        "../../frontend/node_modules/consola"
+      ],
+      "ofetch": [
+        "../../frontend/node_modules/ofetch"
+      ],
+      "@nuxt/devtools": [
+        "../../frontend/node_modules/@nuxt/devtools"
+      ],
+      "@vue/runtime-core": [
+        "../../frontend/node_modules/@vue/runtime-core"
+      ],
+      "@vue/compiler-sfc": [
+        "../../frontend/node_modules/@vue/compiler-sfc"
+      ],
+      "unplugin-vue-router/client": [
+        "../../frontend/node_modules/unplugin-vue-router/client"
+      ],
+      "@nuxt/schema": [
+        "../../frontend/node_modules/@nuxt/schema"
+      ],
+      "nuxt": [
+        "../../frontend/node_modules/nuxt"
+      ],
+      "vite/client": [
+        "../../frontend/node_modules/vite/client"
+      ],
+      "~": [
+        "../../frontend/app"
+      ],
+      "~/*": [
+        "../../frontend/app/*"
+      ],
+      "@": [
+        "../../frontend/app"
+      ],
+      "@/*": [
+        "../../frontend/app/*"
+      ],
+      "~~": [
+        "../../frontend"
+      ],
+      "~~/*": [
+        "../../frontend/*"
+      ],
+      "@@": [
+        "../../frontend"
+      ],
+      "@@/*": [
+        "../../frontend/*"
+      ],
+      "#shared": [
+        "../../frontend/shared"
+      ],
+      "#shared/*": [
+        "../../frontend/shared/*"
+      ],
+      "#app": [
+        "../../frontend/node_modules/nuxt/dist/app"
+      ],
+      "#app/*": [
+        "../../frontend/node_modules/nuxt/dist/app/*"
+      ],
+      "vue-demi": [
+        "../../frontend/node_modules/nuxt/dist/app/compat/vue-demi"
+      ],
+      "#mdc-configs": [
+        "./mdc-configs.mjs"
+      ],
+      "#mdc-highlighter": [
+        "./mdc-highlighter.mjs"
+      ],
+      "#mdc-imports": [
+        "./mdc-imports.mjs"
+      ],
+      "#image": [
+        "../../frontend/node_modules/@nuxt/image/dist/runtime"
+      ],
+      "#image/*": [
+        "../../frontend/node_modules/@nuxt/image/dist/runtime/*"
+      ],
+      "#nuxt-scripts-validator": [
+        "../../frontend/node_modules/@nuxt/scripts/dist/runtime/validation/mock"
+      ],
+      "#nuxt-scripts": [
+        "../../frontend/node_modules/@nuxt/scripts/dist/runtime"
+      ],
+      "#nuxt-scripts/*": [
+        "../../frontend/node_modules/@nuxt/scripts/dist/runtime/*"
+      ],
+      "#ui": [
+        "../../frontend/node_modules/@nuxt/ui/dist/runtime"
+      ],
+      "#ui/*": [
+        "../../frontend/node_modules/@nuxt/ui/dist/runtime/*"
+      ],
+      "#color-mode-options": [
+        "./color-mode-options.mjs"
+      ],
+      "#aos": [
+        "../../frontend/node_modules/nuxt-aos/dist/runtime"
+      ],
+      "#aos/*": [
+        "../../frontend/node_modules/nuxt-aos/dist/runtime/*"
+      ],
+      "#vue-router": [
+        "../../frontend/node_modules/vue-router"
+      ],
+      "#unhead/composables": [
+        "../../frontend/node_modules/nuxt/dist/head/runtime/composables"
+      ],
+      "#imports": [
+        "./imports"
+      ],
+      "#app-manifest": [
+        "./manifest/meta/620f6ce9-938a-4b1f-82d3-6b2e47f2259f.json"
+      ],
+      "#components": [
+        "./components"
+      ],
+      "#build": [
+        "."
+      ],
+      "#build/*": [
+        "./*"
+      ]
+    },
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "target": "ESNext",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "moduleDetection": "force",
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitOverride": true,
+    "module": "preserve",
+    "noEmit": true,
+    "lib": [
+      "ESNext",
+      "dom",
+      "dom.iterable",
+      "webworker"
+    ],
+    "jsx": "preserve",
+    "jsxImportSource": "vue",
+    "types": [],
+    "moduleResolution": "Bundler",
+    "useDefineForClassFields": true,
+    "noImplicitThis": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "./nuxt.d.ts",
+    "../../frontend/app/**/*",
+    "../../frontend/modules/*/runtime/**/*",
+    "../../frontend/layers/*/app/**/*",
+    "../../frontend/layers/*/modules/*/runtime/**/*",
+    "../../frontend/shared/**/*.d.ts",
+    "../../frontend/modules/*/shared/**/*.d.ts",
+    "../../frontend/layers/*/shared/**/*.d.ts",
+    "../../frontend/*.d.ts",
+    "../../frontend/layers/*/*.d.ts"
+  ],
+  "exclude": [
+    "../../frontend/node_modules",
+    "../../frontend/node_modules/nuxt/node_modules",
+    "../../frontend/node_modules/@nuxtjs/mdc/node_modules",
+    "../../frontend/node_modules/@nuxt/content/node_modules",
+    "../../frontend/node_modules/@nuxt/eslint/node_modules",
+    "../../frontend/node_modules/@nuxt/image/node_modules",
+    "../../frontend/node_modules/@nuxt/scripts/node_modules",
+    "../../frontend/node_modules/@nuxt/test-utils/node_modules",
+    "../../frontend/node_modules/@nuxt/icon/node_modules",
+    "../../frontend/node_modules/@nuxt/fonts/node_modules",
+    "../../frontend/node_modules/@nuxtjs/color-mode/node_modules",
+    "../../frontend/node_modules/@nuxt/ui/node_modules",
+    "../../frontend/node_modules/nuxt-aos/node_modules",
+    "../../frontend/node_modules/@nuxt/devtools/node_modules",
+    "../../frontend/node_modules/@nuxt/telemetry/node_modules",
+    "../../frontend/dist",
+    "../../frontend/.data",
+    "../../frontend/modules/*/runtime/server/**/*",
+    "../../frontend/layers/*/server/**/*",
+    "../../frontend/layers/*/modules/*/runtime/server/**/*",
+    "../../frontend/modules/*.*",
+    "../../frontend/nuxt.config.*",
+    "../../frontend/.config/nuxt.*",
+    "../../frontend/layers/*/nuxt.config.*",
+    "../../frontend/layers/*/.config/nuxt.*",
+    "../../frontend/layers/*/modules/**/*",
+    "../../frontend/node_modules/runtime/server",
+    "../../frontend/node_modules/dist/runtime/server",
+    "../../frontend/node_modules/*.*",
+    "../../frontend/node_modules/dist/*.*",
+    "../../frontend/.output",
+    "../../frontend/server"
+  ]
+}

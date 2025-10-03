@@ -1,0 +1,1 @@
+import{_ as o}from"./Dgd_TsUd.js";import{_ as a,f as n,w as r,o as s,a as _}from"#entry";const c={};function f(l,t){const e=o;return s(),n(e,null,{default:r(()=>[...t[0]||(t[0]=[_("h1",null,"ระดับ ป.ตรี",-1)])]),_:1})}const u=a(c,[["render",f]]);export{u as default};

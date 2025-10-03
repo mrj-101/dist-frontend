@@ -1,0 +1,1 @@
+{"version":3,"file":"resource-B3HH8kYh.js","sources":["../../../../../frontend/app/pages/job/resource.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>Resource</h1>\n  </UContainer>\n</template>"],"names":["_push","_parent","_createVNode"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAiB,YAAb,UAAQ;AAAA;;;;;;;;;;;;;"}

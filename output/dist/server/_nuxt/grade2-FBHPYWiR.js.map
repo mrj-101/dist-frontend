@@ -1,0 +1,1 @@
+{"version":3,"file":"grade2-FBHPYWiR.js","sources":["../../../../../frontend/app/pages/curriculum/grade2.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>ระดับ ปวช.</h1>\n  </UContainer>\n</template>"],"names":["_push","_parent","_createVNode"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAmB,YAAf,YAAU;AAAA;;;;;;;;;;;;;"}

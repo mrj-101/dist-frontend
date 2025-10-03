@@ -1,0 +1,1 @@
+import{_ as s}from"./Dgd_TsUd.js";import{_ as t,f as e,w as a,o as r,a as _}from"#entry";const c={};function i(f,o){const n=s;return r(),e(n,null,{default:a(()=>[...o[0]||(o[0]=[_("h1",null,"Mission",-1)])]),_:1})}const p=t(c,[["render",i]]);export{p as default};

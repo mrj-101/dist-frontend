@@ -1,0 +1,1 @@
+{"version":3,"file":"contact-Cpk5nWQh.js","sources":["../../../../../frontend/app/pages/base/contact.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>Contact</h1>\n  </UContainer>\n</template>"],"names":["_push","_parent","_createVNode"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAgB,YAAZ,SAAO;AAAA;;;;;;;;;;;;;"}

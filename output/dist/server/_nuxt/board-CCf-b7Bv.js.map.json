@@ -1,0 +1,1 @@
+{"file":"board-CCf-b7Bv.js","mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAc,YAAV,OAAK;AAAA;;;;;;;;;;;;;","names":["_push","_parent","_createVNode"],"sources":["../../../../../frontend/app/pages/base/board.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>Board</h1>\n  </UContainer>\n</template>"],"version":3}

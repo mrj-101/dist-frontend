@@ -1,0 +1,1 @@
+{"version":3,"file":"plan-Bi1_Slzf.js","sources":["../../../../../frontend/app/pages/job/plan.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>Plan</h1>\n  </UContainer>\n</template>"],"names":["_push","_parent","_createVNode"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAa,YAAT,MAAI;AAAA;;;;;;;;;;;;;"}

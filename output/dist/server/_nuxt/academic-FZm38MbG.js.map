@@ -1,0 +1,1 @@
+{"version":3,"file":"academic-FZm38MbG.js","sources":["../../../../../frontend/app/pages/job/academic.vue"],"sourcesContent":["<template>\n  <UContainer>\n    <h1>Academic</h1>\n  </UContainer>\n</template>"],"names":["_push","_parent","_createVNode"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;qBACE,CAEa,GAAAA,QAAAC,UAAA,aAAA;;;;;UADXC,YAAiB,YAAb,UAAQ;AAAA;;;;;;;;;;;;;"}
